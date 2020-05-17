@@ -1,0 +1,75 @@
+! --- ~/.Xresources ------------------------------------------------------------
+! ------------------------------------------------------------------------------
+! --- generated with 4bit Terminal Color Scheme Designer -----------------------
+! ------------------------------------------------------------------------------
+! --- http://ciembor.github.com/4bit -------------------------------------------
+! ------------------------------------------------------------------------------
+
+! --- special colors ---
+st.alpha:			0.92
+st.termname:			xterm-256color
+st.shell:			/bin/fish
+st.bellvolume:			0
+st.tabspaces:			4
+st.chscale:			1.0
+st.cwscale:			1.0
+
+st.font:			Fira Code Medium:pixelsize=17:antialias=true:autohint:true
+st.background: #000000
+st.foreground: #ced7fd
+
+! --- standard colors ---
+
+! black
+st.color0: #000000
+
+! bright_black
+st.color8: #2a2a2a
+
+! red
+st.color1: #eb2842
+
+! bright_red
+st.color9: #f6a4af
+
+! green
+st.color2: #42eb28
+
+! bright_green
+st.color10: #aff6a4
+
+! yellow
+st.color3: #ebd128
+
+! bright_yellow
+st.color11: #f6eba4
+
+! blue
+st.color4: #2842eb
+
+! bright_blue
+st.color12: #a4aff6
+
+! magenta
+st.color5: #d128eb
+
+! bright_magenta
+st.color13: #eba4f6
+
+! cyan
+st.color6: #afffbb
+
+! bright_cyan
+st.color14: #a4f6eb
+
+! white
+st.color7: #2E00EE
+
+! bright_white
+st.color15: #ffffff
+
+
+! ------------------------------------------------------------------------------
+! --- end of terminal colors section -------------------------------------------
+! ------------------------------------------------------------------------------
+

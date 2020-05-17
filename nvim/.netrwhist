@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/cyil/.config'
+let g:netrw_dirhist_5='/usr/share/kbd/keymaps'
+let g:netrw_dirhist_4='/home/cyil/.config/spotify/Users/cmylmzbm-user'
+let g:netrw_dirhist_3='/home/cyil/.config/spotify/Users'
+let g:netrw_dirhist_2='/home/cyil/.config/spotify'
+let g:netrw_dirhist_1='/home/cyil/.config/spotify/User Data'
+let g:netrw_dirhist_0='/home/cyil/.config/spotify'
+let g:netrw_dirhist_9='/home/cyil/.config/spotify/Users'
+let g:netrw_dirhist_8='/home/cyil/.config/spotify/Users/cmylmzbm-user'
+let g:netrw_dirhist_7='/home/cyil/.config/spotify/Users'
